@@ -1,9 +1,9 @@
-# login_Screen
+# Login_Screen
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/login_Screen?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/login_Screen?style=for-the-badge)
 
-<img src="./public/images/login_Screen.PNG" alt="exemplo imagem">
+<img src="./src/assets/login.PNG" alt="exemplo imagem">
 
 > Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo dos blog do Prismic.
 > 
