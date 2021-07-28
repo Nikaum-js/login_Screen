@@ -5,7 +5,7 @@
 
 <img src="./src/assets/login.PNG" alt="exemplo imagem">
 
-> Esse projeto é um desafio do capitulo 3 do Ignite, é um blog que puxa todo o conteúdo dos blog do Prismic.
+> Eu fiz esse projeto para treinar alguns conceitos de flex blox e pra treinar o Styled Components.
 > 
 ## Linguagens utilizadas
 
