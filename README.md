@@ -1,7 +1,7 @@
 # login_Screen
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/login_Screen?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/login_Screen?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/login_Screen?style=for-the-badge)
 
 <img src="./public/images/login_Screen.PNG" alt="exemplo imagem">
 
