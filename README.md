@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Nikolas-as/login_Screen?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nikolas-as/login_Screen?style=for-the-badge)
 
-<img src="./src/assets/login.PNG" alt="exemplo imagem">
+<img src="./src/assets/login.PNG" >
 
 > Eu fiz esse projeto para treinar alguns conceitos de flex blox e pra treinar o Styled Components.
 > 
